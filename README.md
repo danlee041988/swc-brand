@@ -11,6 +11,7 @@ Canonical source: https://somersetwindowcleaning.co.uk
 - `swc-logo-email-darkmode.jpg` — 360×164, flattened black-background JPEG for signatures in clients that transform dark-mode HTML colours
 - `swc-logo-white-on-ink-480.png` — 480×170, white wordmark flattened on ink (#141414) for the dark header and footer of the Livery customer emails
 - `swc-livery-seam-1200.png` — 1200×192, the van-livery swirl strip that joins the dark email header to the white body
+- `swc-logo-ink-tile-576.png` — 576×235, ink wordmark on a white tile with an even margin (rendered from the unchanged website `logo-ink.svg`); displayed at 192×78 in the Dan and Sean email signatures, so dark-mode clients show a clean white tile
 
 Logo is white-on-transparent. Place on a dark background or use the navy/charcoal variant from the website when needed on light backgrounds.
 
